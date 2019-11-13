@@ -1,0 +1,11 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^3.6"
+    },
+    "autoload": {
+	    "classmap": [
+	      "db.php",
+	      "helpers.php"
+	    ]
+  	}
+}
